@@ -1,0 +1,44 @@
+[
+    {
+        "createdBy": {
+            "user": {
+                "email": "MWaseem@nbcrna.com",
+                "id": "b69cfe4c-44ad-41eb-9098-ab035da80d2d",
+                "displayName": "Mohammed Waseem"
+            }
+        },
+        "createdDateTime": "2025-04-10T18:42:13Z",
+        "eTag": "\"{262FCB68-9A0C-45E7-95FB-310300B2F85F},1\"",
+        "id": "01RG4FNUDIZMXSMDE245CZL6ZRAMALF6C7",
+        "lastModifiedBy": {
+            "user": {
+                "email": "MWaseem@nbcrna.com",
+                "id": "b69cfe4c-44ad-41eb-9098-ab035da80d2d",
+                "displayName": "Mohammed Waseem"
+            }
+        },
+        "lastModifiedDateTime": "2025-04-10T18:42:13Z",
+        "name": "test1",
+        "parentReference": {
+            "driveType": "documentLibrary",
+            "driveId": "b!j0-EU1ZHWUiIaZsmbZHjr6NpCuauIQ5GmGAPspY216QpWED6SWXkSLTVq0vPOwkO",
+            "id": "01RG4FNUF6Y2GOVW7725BZO354PWSELRRZ",
+            "name": "Shared Documents",
+            "path": "/drives/b!j0-EU1ZHWUiIaZsmbZHjr6NpCuauIQ5GmGAPspY216QpWED6SWXkSLTVq0vPOwkO/root:",
+            "siteId": "53844f8f-4756-4859-8869-9b266d91e3af"
+        },
+        "webUrl": "https://nbcrna.sharepoint.com/sites/AptifyAttachment/Shared%20Documents/test1",
+        "cTag": "\"c:{262FCB68-9A0C-45E7-95FB-310300B2F85F},0\"",
+        "fileSystemInfo": {
+            "createdDateTime": "2025-04-10T18:42:13Z",
+            "lastModifiedDateTime": "2025-04-10T18:42:13Z"
+        },
+        "folder": {
+            "childCount": 0
+        },
+        "shared": {
+            "scope": "users"
+        },
+        "size": 0
+    }
+]
